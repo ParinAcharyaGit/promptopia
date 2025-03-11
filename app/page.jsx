@@ -4,7 +4,7 @@ const Home = () => {
   return (
     <section className="w-full flex-center flex-col">
         <h1 className="head_text text-center">
-            Generate and Share AI-powered prompts with
+            Generate and Share AI prompts with
             <br className="max-md:hidden"/>
             <span className="blue_gradient text-center">
                 Promptopia
